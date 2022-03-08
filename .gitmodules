@@ -1,0 +1,3 @@
+[submodule "QAPersonChallenge"]
+	path = QAPersonChallenge
+	url = https://github.com/LukeWebster89/QAPersonChallenge.git
